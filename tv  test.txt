@@ -83,17 +83,22 @@ CCTV15「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV
 CCTV16「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 •地方,#genre#
-中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-深圳电视台都市频道,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-梅州一套综合频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
-梅州二套公共频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
-河源综合频道,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源公共频道,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-清远综合频道,https://huodong.zuiqingyuan.com/dianshi/newxinwenpingdao.m3u8?token=B86ouFGGfrmwNY9CDr8t
+凤凰中文，http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文，http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+翡翠台，http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+明珠台 ，http://120.84.96.89:808/hls/26/index.m3u8
+珠江台  ,http://171.108.239.54:8181/tsfile/live/1001_1.m3u8
+中国天气 ,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+深圳电视台都市频道 ,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+梅州一套综合频道 ,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
+梅州二套公共频道 ,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
+河源综合频道 ,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源公共频道 ,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+清远综合频道 ,https://huodong.zuiqingyuan.com/dianshi/newxinwenpingdao.m3u8?token=B86ouFGGfrmwNY9CDr8t
 清远文旅生活频道，https://huodong.zuiqingyuan.com/dianshi/newwenlvshenghuo.m3u8?token=B86ouFGGfrmwNY9CDr8t932
-汕头一套综合频道,https://sttv-tsl.cutv.com/lKGXIQa/23sl5G0.m3u8
-江门综合频道,http://tidelive.jmtv.cn/lsdream/4x3T0dO/993/r534500.m3u8
-江门公共频道" ,http://tidelive.jmtv.cn/lsdream/qzohscw/993/r1lq5o0.m3u8
+汕头一套综合频道 ,https://sttv-tsl.cutv.com/lKGXIQa/23sl5G0.m3u8
+江门综合频道 ,http://tidelive.jmtv.cn/lsdream/4x3T0dO/993/r534500.m3u8
+江门公共频道  ,http://tidelive.jmtv.cn/lsdream/qzohscw/993/r1lq5o0.m3u8
 阳江新闻综合频道 ,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
 阳江公共频道 ,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
 
