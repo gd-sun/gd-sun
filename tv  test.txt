@@ -172,14 +172,23 @@ CETV3,http://124.205.11.203:91/live/CETV3-1500k/live.m3u8
 运动健身,http://124.205.11.247/lunbo/shangxinyugao/index.m3u8?st=b500a2a288f444f73b96d3c1ed70a263&e=1712685479&model=DB52C7&mac=14:3d:f2:98:0d:27&sn=DBE3C12S211027293&romversion=OD.C1.51.07&apkversion=4.19.0495&duiversion=4.2.0
 
 •地方,#genre#
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-鳳凰衛視資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-港台電視,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-明珠台,http://120.84.96.89:808/hls/26/index.m3u8
-珠江台  ,http://171.108.239.54:8181/tsfile/live/1001_1.m3u8
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
+翡翠台,http://49.234.31.101:7004udp://@224.9.2.10:5000
+翡翠台,http://67.211.73.118:9901http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台,http://67.211.73.118:9901http://iptv.tvfix.org/hls/jade.m3u8
+纬来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
+爱尔达体育,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+ELEVEN体育,https://ktpremium.com:443/K3939/6757/910890
+明珠台,http://67.211.73.118:9901http://iptv.tvfix.org/hls/pearl2.m3u8
+明珠台,http://49.234.31.101:7004udp://@224.9.2.100:5000
+明珠台,http://67.211.73.118:9901http://iptv.tvfix.org/hls/pearl.m3u8
+星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+珠江台  ,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气 ,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 深圳电视台都市频道 ,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 梅州一套综合频道 ,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
