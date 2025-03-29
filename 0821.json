@@ -5,7 +5,7 @@
     {
       "name": "小雅·ipv6",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/ipv6.m3u",
       "playerType": 2
     },
     {
@@ -17,7 +17,7 @@
     {
       "name": "alive",
       "type": 0,
-      "url": "./lib/live.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/live.m3u",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -65,7 +65,7 @@
     {
       "name": "kakaxi-1",
       "type": 0,
-      "url": "./lib/ipv4.txt",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/ipv4.txt",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -89,7 +89,7 @@
     {
       "name": "直播live",
       "type": 0,
-      "url": "./lib/live.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/live.m3u",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
