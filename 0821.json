@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;5e53c8f9ddd4ede5359c16bee091db93",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/custom_spider.jar;md5;5e53c8f9ddd4ede5359c16bee091db93",
   "logo": "https://avatars.githubusercontent.com/u/58679624?v=4",
   "lives": [
     {
@@ -11,7 +11,7 @@
     {
       "name": "咪咕直播·流畅",
       "type": 0,
-      "url": "./lib/iptv.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/iptv.m3u",
       "playerType": 2
     },
     {
@@ -25,13 +25,13 @@
     {
       "name": "小雅·gaoma",
       "type": 0,
-      "url": "./lib/ipv4.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/ipv4.m3u",
       "playerType": 2
     },
     {
       "name": "快直播(影视·python)",
       "type": 3,
-      "api": "./lib/kzb.py",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/kzb.py",
       "ext": {}
     },
     {
@@ -49,7 +49,7 @@
     {
       "name": "IPTV·gaoma",
       "type": 0,
-      "url": "./lib/IPTV-V4.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/IPTV-V4.m3u",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -57,7 +57,7 @@
     {
       "name": "CCTV·gaoma",
       "type": 0,
-      "url": "./lib/CCTV-V4.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/CCTV-V4.m3u",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -73,7 +73,7 @@
     {
       "name": "iptv",
       "type": 0,
-      "url": "./lib/iptv.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/iptv.m3u",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -81,7 +81,7 @@
     {
       "name": "iptv_list",
       "type": 0,
-      "url": "./lib/iptv_list.txt",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/iptv_list.txt",
       "playerType": 2,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -96,7 +96,7 @@
     {
       "name": "16万•MV",
       "type": 0,
-      "url": "./lib/MTV.txt"
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/MTV.txt"
     }
   ],
   "wallpaper": "https://bing.img.run/uhd.php",
@@ -106,8 +106,8 @@
       "name": "💯豆瓣｜评分｜推荐",
       "type": 3,
       "api": "csp_Douban",
-      "ext": "./lib/豆瓣.json",
-      "jar": "./lib/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/豆瓣.json",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
     {
       "key": "荐片",
@@ -118,14 +118,14 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://175.178.251.183:6689/lib/jianpian.json",
-      "jar": "./lib/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
     {
       "key": "drpy_js_荐片",
       "name": "🏆荐片[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/荐片.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/荐片.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -139,7 +139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./lib/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
     {
       "key": "苹果",
@@ -149,7 +149,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./lib/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
     {
       "key": "金牌",
@@ -158,49 +158,49 @@
       "api": "csp_Jpys",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./lib/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5"
     },
     {
       "key": "drpy_js_360影视",
       "name": "🥇官源┃360[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/360影视.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "🦚官源┃爱奇艺[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "🥈官源┃芒果[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/百忙无果.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "🥉官源┃腾讯[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/腾云驾雾.js"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "🦜官源┃搜狗[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/菜狗.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/菜狗.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "🍇官源┃优酷[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/优酷.js"
     },
     {
       "key": "量子",
@@ -348,7 +348,7 @@
       "key": "lf_js_lf_live",
       "name": "🥏电视┃直播",
       "type": 3,
-      "api": "./lib/lf_live_min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/lf_live_min.js",
       "style": {
         "type": "oval"
       },
@@ -356,14 +356,14 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/lf_live.txt"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/lf_live.txt"
     },
     {
       "key": "88js",
       "name": " 🥇88┃看球",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/88看球.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/88看球.js",
       "style": {
         "type": "list"
       },
@@ -375,8 +375,8 @@
       "key": "310js",
       "name": "🥈310┃看球",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/310直播.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/310直播.js",
       "style": {
         "type": "list"
       },
@@ -388,8 +388,8 @@
       "key": "Jrsjs",
       "name": "🥉Jrs┃球迷",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jrk.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/jrk.js",
       "style": {
         "type": "list"
       },
@@ -424,31 +424,31 @@
       "key": "drpy_js_我的哔哩",
       "name": "🦉┃我的哔哩[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "./lib/我的哔哩.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/我的哔哩.js"
     },
     {
       "key": "drpy_js_哔哩直播",
       "name": "🎳┃哔哩直播[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "./lib/哔哩直播.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/哔哩直播.js"
     },
     {
       "key": "drpy_js_斗鱼直播",
       "name": "🥏┃斗鱼[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -457,7 +457,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/斗鱼直播.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/斗鱼直播.js"
     },
     {
       "key": "drpy_js_童趣",
@@ -465,58 +465,58 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./lib/童趣.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/童趣.js"
     },
     {
       "key": "drpy_js_兔小贝",
       "name": "⚜️少儿┃兔小贝[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./lib/兔小贝.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/兔小贝.js"
     },
     {
       "key": "drpy_js_i275听书",
       "name": "⛳听书┃i275听书[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./lib/i275听书.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/i275听书.js"
     },
     {
       "key": "drpy_js_爱上你听书网",
       "name": "🎑听书┃爱上你听书[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./lib/爱上你听书网.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/爱上你听书网.js"
     },
     {
       "key": "drpy_js_博看听书",
       "name": "🎁听书┃博看听书[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./lib/博看听书.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/博看听书.js"
     },
     {
       "key": "有声小说js",
       "name": "🎏听书┃有声小说[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/有声小说吧.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -529,49 +529,49 @@
       "key": "drpy_js_评书随身听",
       "name": "🎄评书┃评书随身听[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./lib/评书随身听.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/评书随身听.js"
     },
     {
       "key": "drpy_js_相声随身听",
       "name": "🎭相声┃相声随身听[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./lib/相声随身听.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/相声随身听.js"
     },
     {
       "key": "drpy_js_广播迷FM",
       "name": "🏐广播┃广播迷FM[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./lib/广播迷FM.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/广播迷FM.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
       "name": "🍆广播┃蜻蜓FM[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./lib/蜻蜓FM.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/蜻蜓FM.js"
     },
     {
       "key": "drpy_js_DJ音乐",
       "name": "🍌音频┃DJ音乐[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./lib/DJ音乐.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/DJ音乐.js"
     },
     {
       "key": "drpy_js_酷奇MV",
       "name": "🥗MV┃酷奇[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "./lib/酷奇MV.js"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/酷奇MV.js"
     },
     {
       "key": "push_agent",
@@ -591,21 +591,21 @@
       "quickSearch": "0",
       "filterable": "1",
       "changeable": 0,
-      "ext": "./lib/alist.json"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/alist.json"
     },
     {
       "key": "bb",
       "name": "🦢导航www.203511.xyz",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/drpy.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy.js"
     },
     {
       "key": "cc",
       "name": "🐹请勿相信视频中任何广告",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/drpy.js"
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/lib/drpy.js"
     }
   ],
   "parses": [
