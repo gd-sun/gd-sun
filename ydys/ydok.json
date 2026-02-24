@@ -1,50 +1,59 @@
 {
-  "spider": "./kg.txt",
-  "wallpaper": "./cici.jpg",
-  "logo": "./s.gif",
-  "lives": [
+  "spider": "https://gh.llkk.cc/https://raw.githubusercontent.com/gd-sun/gd-sun/refs/heads/main/ydys/kg.txt",
+ "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "logo": "https://pic1.imgdb.cn/item/67df820888c538a9b5c4a65f.gif",
+ "lives": [
     {
-      "name": "康哥",
+      "name": "Kimentanm",
       "type": 0,
-      "url": "./lib/tvzb.txt",
-      "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 2
     },
     {
-      "name": "平台直播",
+      "name": "develop202",
       "type": 0,
-      "url": "https://tv.iill.top/m3u/Live",
+      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
-      "ua": "okhttp/3.15"
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "胖羊直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "https://xn--tkh-mf3g9f.v.nxog.top/m//tv/胖羊.php",
+      "name": "范明明（需开启V6网络）",
+      "type": 0,
+      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2,
       "timeout": 10,
-      "ua": "okhttp/3.15",
-      "catchup": {
-        "type": "append",
-        "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-      }
+      "ua": "okHttp/Mod-1.5.0.0"
     },
     {
-      "name": "AI直播",
+      "name": "斗鱼一起看",
       "type": 0,
-      "url": "./lib/user_result.txt",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png",
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
       "playerType": 2,
-      "timeout": 10
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
     },
     {
-      "name": "Live直播",
+      "name": "B站直播",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
       "playerType": 2,
-      "timeout": 10
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
     }
   ],
   "sites": [
